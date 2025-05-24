@@ -1,0 +1,28 @@
+# Ambientes Virtuais
+venv/
+*.venv/
+env/
+ENV/
+pipenv.lock
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração de IDEs populares
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependências baixadas localmente (se houver)
+# Ex: node_modules/
+
+# Arquivos de segredos (se você tivesse algum, o que não é o caso aqui)
+# .env
+# secrets.toml

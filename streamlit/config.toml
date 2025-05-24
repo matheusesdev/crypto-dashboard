@@ -1,0 +1,14 @@
+[theme]
+primaryColor="#00C08B" # Um verde vibrante
+backgroundColor="#0F172A" # Um azul bem escuro (quase preto)
+secondaryBackgroundColor="#1E293B" # Um azul escuro para sidebars, expanders
+textColor="#E2E8F0" # Um cinza claro para texto, bom contraste com o fundo escuro
+font="sans serif"
+
+[server]
+# Permite que o Streamlit sirva arquivos estáticos da pasta 'static' se você quiser adicionar imagens locais, etc.
+# enableStaticServing = true
+
+[global]
+# Desabilita a mensagem "Made with Streamlit" (se desejado)
+# showแม้MadeWithStreamlit = false
