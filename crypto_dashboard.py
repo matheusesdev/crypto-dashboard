@@ -269,4 +269,4 @@ else:
                 st.warning("Detalhes da moeda selecionada não encontrados.")
 
 st.markdown("---")
-st.markdown(f"<p style='text-align: center; font-size:0.9em; color:gray;'>Dashboard CriptoTracker Pro | {datetime.now().year} | Jequié-BA, Brasil</p>", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; font-size:0.9em; color:gray;'>Dashboard CriptoTracker Pro | {datetime.now().year} | Vitória da Conquista-BA, Brasil</p>", unsafe_allow_html=True)
